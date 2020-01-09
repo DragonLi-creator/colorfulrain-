@@ -1,0 +1,7 @@
+﻿  thunder.cpp
+e:\vs2017\数据结构设计4\数据结构设计4\creat_rain.h(21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\vs2017\数据结构设计4\数据结构设计4\creat_rain.h(52): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\vs2017\数据结构设计4\数据结构设计4\circle.h(11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\vs2017\数据结构设计4\数据结构设计4\thunder.cpp(15): warning C4101: “m”: 未引用的局部变量
+e:\vs2017\数据结构设计4\数据结构设计4\thunder.cpp(75): warning C4101: “i”: 未引用的局部变量
+  数据结构设计4.vcxproj -> E:\vs2017\数据结构设计4\Debug\数据结构设计4.exe
